@@ -17,7 +17,7 @@
        <AppxPackageSigningEnabled>True</AppxPackageSigningEnabled>
        <PackageCertificateKeyFile>ReboundDiskCleanup_TemporaryKey.pfx</PackageCertificateKeyFile>
        <AppxPackageSigningTimestampDigestAlgorithm>SHA256</AppxPackageSigningTimestampDigestAlgorithm>
-       <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
+       <AppxAutoIncrementPackageRevision>False</AppxAutoIncrementPackageRevision>
        <AppxSymbolPackageEnabled>False</AppxSymbolPackageEnabled>
        <GenerateTestArtifacts>True</GenerateTestArtifacts>
        <AppxBundle>Never</AppxBundle>
